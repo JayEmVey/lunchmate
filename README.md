@@ -67,3 +67,7 @@ PARSE_SERVER=https://lunch-mate.herokuapp.com
 Use this cUrl cmd to test Parse connection (on Heroku)
 
 `curl -X POST -H "X-Parse-Application-Id: lunch-mate" -H "Content-Type: application/json" -d '{"score":1337,"playerName":"Sean Plott","cheatMode":false}' https://lunch-mate.herokuapp.com/parse/classes/GameScore`
+
+```
+Nam joined team
+```
